@@ -1,0 +1,468 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	width:100%;
+
+}
+.header{
+	font-family: 'Roboto', sans-serif;
+	padding: 10px;
+	
+	width:98.5%;
+	background: black;
+	color:white;
+	list-style-type: none;
+	 font-size: 13px;
+	 
+overflow :hidden;
+	 display:inline-block;
+	 margin-bottom: 0px;
+
+
+}
+.right {
+	overflow :hidden;
+	float:right;
+	margin-left:8px;
+	list-style-type: none;
+	padding: 4px;
+}
+.left {
+	overflow :hidden;
+	float:left;
+	list-style-type: none;
+	overflow:hidden;
+	margin-left:8px;
+	padding:4px;
+}
+.header img{
+	float:left;
+	width:20px;
+	overflow :hidden;
+}
+.header2{
+
+	position: absolute;
+	overflow :hidden;
+  top: 0px;
+ font-family: 'Roboto', sans-serif;
+  background: black;
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  width:100%
+  
+}
+.img4{
+	overflow :hidden;
+	position: relative;
+	width:100%;
+}
+.header2 img{
+	padding-top: 5px;
+	float:left;
+	width:60px;
+	height :60px;
+	overflow :hidden;
+}
+.header2 h3{
+	width:30%;
+	font-size: 30px;
+	padding-top: 18px;
+	float:left;
+	overflow :hidden;
+	}
+
+ .input{
+ 	overflow :hidden;
+
+ width:33%;
+   margin-top: 10px;
+	float:left;
+	padding:10px;
+	list-style-type: none;
+    text-align:center;
+}
+.input input{
+	height:30px;
+}
+.input select{
+	height:30px;
+	background-color: violet;
+}
+.img2{
+	overflow :hidden;
+	float:right;
+	margin-right:15px;
+	padding-top: 0px;
+
+}
+.header2sub{
+
+	height:7%;
+	overflow :hidden;
+	
+	width:100%;
+}
+.header2sub .left{
+	font-family: 'Roboto', sans-serif;
+	width:14%;
+	height:100;
+	margin-left:0px;
+	float:left;
+	background: lightgray;
+	font-size:14px;
+	overflow :hidden;
+}
+.h3{
+	width:27%;
+	font-size:12px;
+	background: lightgray;
+	float:right;
+height:100%;
+	list-style-type: none;
+	overflow: hidden;
+	
+
+}
+
+.h3 p{
+	margin-top: 8px;
+}
+.h3a{
+	width:2.255%;
+	font-size:30px;
+	
+	height:100%;
+	list-style-type: none;
+	background: lightgray;
+	float:right;
+overflow: hidden;
+}
+.arrow{
+	width:2%;
+	font-size:30px;
+	margin-left:1px;
+	height:100%;
+		list-style-type: none;
+	background: lightgray;
+	float:right;
+	
+overflow: hidden;
+}
+.arrowl2
+{
+float:left;
+width:2%;
+font-size:28px;
+color:lightgrey;
+background:gray;
+height:200px;
+
+overflow :hidden;
+}
+.arrowl1
+{
+float:left;
+width:2%;
+font-size:28px;
+color:lightgrey;
+background:gray;
+height:200px;
+
+overflow :hidden;
+}
+
+
+.box{
+	font-family: 'Roboto', sans-serif;
+width:100%;
+background:lightgray;
+overflow :hidden;
+}
+
+.side_box{
+width:16%;
+float:left;
+background:white;
+height:200px;
+overflow :hidden;
+}
+.right_box{
+width:80%;
+float:left;
+background:lightgray;
+height:200px;
+overflow :hidden;
+}
+.box1{
+width:13.5%;
+float:left;
+height:100px;
+margin-left:35px;
+margin-top:20px;
+padding:14px;
+
+}
+.f_b_ox1
+{
+color:purple;
+padding-top:5px;
+padding-right:8px;
+margin-top:2px;
+background:lightgrey;
+margin-bottom:5px;}
+
+.middle{
+	font-family: 'Roboto', sans-serif;
+	margin-top: 2px;
+width:100%;
+float:right;
+height:40%;
+background: lightgray;
+margin-bottom: 8px;
+}
+
+.rightarrow{
+	background: gray;
+	width:2%;
+	color:lightgray;
+	font-size: 25px;
+	margin-top:5.5%;
+	border-radius: 50%;
+	float:right;
+	margin-right: 4px;
+	text-align:center;
+
+
+	list-style-type: none;
+}
+.poto{
+
+	width:81.177%;
+	height: 200px;
+	float:left;
+	margin-top: 10px;
+	background: lightgray;
+}
+.leftarrow{
+	background: gray;
+	width:2%;
+	color:lightgray;
+	font-size: 25px;
+	margin-top:5.5%;
+	border-radius: 50%;
+	float:left;
+	margin-left: 4px;
+	text-align:center;
+
+	list-style-type: none;
+}
+.phototop{
+	
+	width:15%;
+
+	
+	float:left;
+height:100px;
+margin-left:25px;
+margin-top:20px;
+padding:14px;
+
+}
+.img1{
+
+		width:23%;
+		height: 230px;
+		margin-top:30px;
+		margin-left:20px;
+		margin-bottom: 30px;
+		float:left;
+	
+	}
+	.bottom{
+
+		margin-top: 2px;
+		color:white;
+		overflow: hidden;
+	}
+	.middle2{
+		width:100%;
+		height:40%;
+		background: dimgray;
+		overflow: hidden;
+		font-family: 'Roboto', sans-serif;
+
+	}
+	.right2{
+		width:49.9%;
+		float:right;
+		height:100%;
+		background: lightgray;
+	}
+	.left2{
+		width:49.9%;
+		float:left;
+		height:100%;
+		background: lightgray;
+	}
+	.pototop{
+		margin-top: 8px;
+		height:15px;
+		float:left;
+	
+		margin-bottom: 8px;
+
+		margin-left:12px;
+		width:33%;
+
+	
+	float:left;
+
+margin-left:25px;
+margin-top:20px;
+padding:14px;
+	}
+	
+	.rhtarrow{
+	background: gray;
+	width:5%;
+	color:lightgray;
+	font-size: 22px;
+	margin-top:13%;
+	border-radius: 50%;
+	float:left;
+	margin-left: 7px;
+	text-align:center;
+
+	list-style-type: none;
+}
+.lftarrow{
+	background: gray;
+	width:5%;
+	color:lightgray;
+	font-size: 22px;
+	margin-top:13%;
+	border-radius: 50%;
+	float:left;
+	margin-left: 7px;
+	text-align:center;
+
+	list-style-type: none;
+}
+
+	.video{
+		margin-top: 40px;
+	height:40px;
+	float:left;
+	width:13%;
+
+	margin-left:8px;
+
+	}
+	.h6{
+		margin-left: 1px;
+		float:left;
+		width:10%;
+	
+	}
+	.vid{
+		font-family: 'Roboto', sans-serif;
+		width:100%;
+		height:200px;
+		background:#581010;
+		overflow: hidden;
+
+	}
+	.footer {
+		padding: 10px;
+	
+	width:98.5%;
+	background: black;
+	color:white;
+	list-style-type: none;
+	 font-size: 13px;
+	 
+overflow :hidden;
+	 display:inline-block;
+	 margin-bottom: 0px;
+
+	}
+	.footer li{
+		list-style-type: none;
+		padding: 0.5rem;
+	}
+	.footer img{
+		width:10%;
+		margin-left:250px;
+		height:10%;
+		overflow: hidden;
+
+	}
+
+.q
+{
+	text-align: center;
+}
+.aa{
+	padding:15px;
+	    width: 100%;
+	    margin-left: 25%;
+   		overflow: hidden;
+		margin-top: 5px;
+}
+.vid .leftarrow{
+	background: black;
+	width:2%;
+	color:lightgray;
+	font-size: 35px;
+	margin-top:5.5%;
+	border-radius: 50%;
+	float:left;
+	margin-left: 4px;
+	text-align:center;
+
+	list-style-type: none;
+
+}
+.vid .rightarrow{
+	background: black;
+	width:2%;
+	color:lightgray;
+	font-size: 35px;
+	margin-top:5.5%;
+	border-radius: 50%;
+	float:right;
+	margin-right: 4px;
+	text-align:center;
+
+
+	list-style-type: none;
+}
+
+
+
+.footer
+{
+color:white;
+background:black;
+width:98.5%;
+
+overflow:hidden;
+}
+.footer p
+{
+font-family: 'Roboto', sans-serif;
+font-size:13px;
+}
+.q
+{
+text-align: center;
+font-family: 'Roboto', sans-serif;
+
+}
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+
+
